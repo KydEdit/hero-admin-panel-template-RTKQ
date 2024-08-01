@@ -1,0 +1,90 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": 2,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
+      "element": "wind"
+    },
+    {
+      "id": 3,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water"
+    },
+    {
+      "id": "c4927bea-2315-4b52-8fd5-745ca6464741",
+      "name": "TestHero1",
+      "description": "TestHero1",
+      "element": "fire"
+    },
+    {
+      "id": "0ed0a84b-a9f1-4795-b498-0b89ac5f53bc",
+      "name": "TestHero2",
+      "description": "TestHero2",
+      "element": "water"
+    },
+    {
+      "id": "bb9368a1-2f13-4730-9631-3a380e0b2dca",
+      "name": "TestHero3",
+      "description": "TestHero3",
+      "element": "wind"
+    },
+    {
+      "id": "0f04394a-d986-4836-b7a2-047196048a30",
+      "name": "TestHero4",
+      "description": "TestHero4",
+      "element": "earth"
+    },
+    {
+      "id": "a21edcef-bd20-4c2b-91f8-40e9e3bdc918",
+      "name": "TestHero5",
+      "description": "TestHero5",
+      "element": "fire"
+    },
+    {
+      "id": "9abeda96-10a9-4e5b-ad7e-45e29536511c",
+      "name": "TestHero6",
+      "description": "TestHero6",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
